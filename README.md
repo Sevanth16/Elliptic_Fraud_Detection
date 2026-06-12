@@ -129,5 +129,17 @@ Elliptic_Fraud_Detection/
 
 ## Dashboard Screenshots
 
-<img width="610" height="204" alt="Screenshot 2026-06-12 180828" src="https://github.com/user-attachments/assets/c720ae52-d510-4de1-9d1e-13743181a19b" />
+<img width="610" height="204" alt="Screenshot 2026-06-12 180828" src="https://github.com/user-attachments/assets/f4a8d30d-e149-4db4-89c9-ff3fe967b1b6" />
+
+<img width="1323" height="698" alt="Screenshot 2026-06-12 181000" src="https://github.com/user-attachments/assets/b63329d7-6a9e-4c83-8297-6a95c356c0c9" />
+
+<img width="1106" height="616" alt="Screenshot 2026-06-12 181553" src="https://github.com/user-attachments/assets/a5e41013-63ef-452d-b2dc-0c938566b3c8" />
+
+<img width="1101" height="613" alt="Screenshot 2026-06-12 181748" src="https://github.com/user-attachments/assets/0927f7e0-0747-4b4d-84d6-eefe5afd30a5" />
+
+
+
+
+
+
 
