@@ -129,11 +129,5 @@ Elliptic_Fraud_Detection/
 
 ## Dashboard Screenshots
 
-### Executive Summary
-![Executive Summary](images/executive_summary.png)
+<img width="610" height="204" alt="Screenshot 2026-06-12 180828" src="https://github.com/user-attachments/assets/c720ae52-d510-4de1-9d1e-13743181a19b" />
 
-### Fraud Analytics
-![Fraud Analytics](images/fraud_analytics.png)
-
-### Community Detection
-![Community Detection](images/community_detection.png)
